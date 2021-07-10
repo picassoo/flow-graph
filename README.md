@@ -1,4 +1,4 @@
-# flow-streaming
+# flow-graph
 
 ## Project setup
 ```
