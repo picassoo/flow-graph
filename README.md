@@ -2,8 +2,8 @@
 
 flow-graph project is show how use litegraph.js library on Vue project. Implemented litegraph.js modules are found in internet. These modules is sample of litegraph.js:
 
-https://observablehq.com/@jerdak/litegraph-example
-https://codepen.io/gmem/pen/qBOrKeB
+https://observablehq.com/@jerdak/litegraph-example<br />
+https://codepen.io/gmem/pen/qBOrKeB<br />
 
 
 ## Project setup
